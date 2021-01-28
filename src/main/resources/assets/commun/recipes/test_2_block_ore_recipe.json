@@ -1,0 +1,13 @@
+{
+  "group": "commun",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "commun:test_2_block"
+    }
+  ],
+  "result": {
+    "item": "commun:test_2",
+    "count": 9
+  }
+}

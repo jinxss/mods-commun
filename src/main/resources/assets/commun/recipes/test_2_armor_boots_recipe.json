@@ -1,0 +1,26 @@
+{
+  "group": "commun",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "commun:test_2"
+    },
+    "2": {
+      "item": "commun:test_2"
+    },
+    "3": {
+      "item": "commun:test_2"
+    },
+    "5": {
+      "item": "commun:test_2"
+    }
+  },
+  "result": {
+    "item": "commun:test_2_armorboots",
+    "count": 1
+  }
+}

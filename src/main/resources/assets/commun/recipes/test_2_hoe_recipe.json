@@ -1,0 +1,27 @@
+{
+  "group": "commun",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "commun:test_2"
+    },
+    "1": {
+      "item": "commun:test_2"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "commun:test_2_hoe",
+    "count": 1
+  }
+}
