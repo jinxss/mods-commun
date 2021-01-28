@@ -204,6 +204,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "test_2_armor_boots_recipe"
+    },
+    {
+      "name": "Te",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "te"
     }
   ],
   "variable_elements": [],
@@ -220,6 +229,7 @@
       "tile.test_2_block.name": "Block of Test2",
       "item.test_2_armorbody.name": "Test2 Chestplate",
       "item.test_2_armorboots.name": "Test2 Boots",
+      "item.te.name": "Te",
       "item.test_2_sword.name": "Test2 Sword",
       "item.test_2_armorhelmet.name": "Test2 Helmet",
       "item.test_2_pickaxe.name": "Test2 Pickaxe"
