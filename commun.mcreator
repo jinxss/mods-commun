@@ -209,7 +209,7 @@
       "name": "Penis",
       "type": "block",
       "sortid": 23,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "penis"
@@ -218,7 +218,7 @@
       "name": "Te",
       "type": "item",
       "sortid": 23,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "te"
