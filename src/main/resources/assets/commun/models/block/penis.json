@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "commun:blocks/penis",
+    "particle": "commun:blocks/penis"
+  }
+}
