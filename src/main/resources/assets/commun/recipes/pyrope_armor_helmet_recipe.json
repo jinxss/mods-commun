@@ -1,0 +1,29 @@
+{
+  "group": "commun",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "commun:pyrope"
+    },
+    "1": {
+      "item": "commun:pyrope"
+    },
+    "2": {
+      "item": "commun:pyrope"
+    },
+    "3": {
+      "item": "commun:pyrope"
+    },
+    "5": {
+      "item": "commun:pyrope"
+    }
+  },
+  "result": {
+    "item": "commun:pyrope_armorhelmet",
+    "count": 1
+  }
+}

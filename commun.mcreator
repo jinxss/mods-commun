@@ -1,10 +1,219 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Pyrope",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope"
+    },
+    {
+      "name": "PyropeOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_ore"
+    },
+    {
+      "name": "PyropeBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_block"
+    },
+    {
+      "name": "PyropeOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_ore_block_recipe"
+    },
+    {
+      "name": "PyropeBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_block_ore_recipe"
+    },
+    {
+      "name": "PyropeOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_ore_smelting"
+    },
+    {
+      "name": "PyropePickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_pickaxe"
+    },
+    {
+      "name": "PyropeAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_axe"
+    },
+    {
+      "name": "PyropeSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_sword"
+    },
+    {
+      "name": "PyropeShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_shovel"
+    },
+    {
+      "name": "PyropeHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_hoe"
+    },
+    {
+      "name": "PyropePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_pickaxe_recipe"
+    },
+    {
+      "name": "PyropeAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_axe_recipe"
+    },
+    {
+      "name": "PyropeSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_sword_recipe"
+    },
+    {
+      "name": "PyropeShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_shovel_recipe"
+    },
+    {
+      "name": "PyropeHoeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_hoe_recipe"
+    },
+    {
+      "name": "PyropeArmor",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "PyropeArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_armor_helmet_recipe"
+    },
+    {
+      "name": "PyropeArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_armor_body_recipe"
+    },
+    {
+      "name": "PyropeArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_armor_leggings_recipe"
+    },
+    {
+      "name": "PyropeArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_armor_boots_recipe"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.pyrope_sword.name": "Pyrope Sword",
+      "tile.pyrope_ore.name": "Pyrope Ore",
+      "item.pyrope_shovel.name": "Pyrope Shovel",
+      "item.pyrope.name": "Pyrope",
+      "item.pyrope_axe.name": "Pyrope Axe",
+      "item.pyrope_hoe.name": "Pyrope Hoe",
+      "item.pyrope_armorhelmet.name": "Pyrope Helmet",
+      "item.pyrope_armorlegs.name": "Pyrope Leggings",
+      "item.pyrope_armorboots.name": "Pyrope Boots",
+      "item.pyrope_pickaxe.name": "Pyrope Pickaxe",
+      "item.pyrope_armorbody.name": "Pyrope Chestplate",
+      "tile.pyrope_block.name": "Block of Pyrope"
+    }
   },
   "workspaceSettings": {
     "modid": "commun",
