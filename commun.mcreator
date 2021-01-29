@@ -2,157 +2,157 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "Pyrope",
+      "name": "Spinelle_rose",
       "type": "item",
       "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pyrope"
+      "registry_name": "spinelle_rose"
     },
     {
-      "name": "PyropeOre",
+      "name": "Spinelle_roseOre",
       "type": "block",
       "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pyrope_ore"
+      "registry_name": "spinelle_rose_ore"
     },
     {
-      "name": "PyropeBlock",
+      "name": "Spinelle_roseBlock",
       "type": "block",
       "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pyrope_block"
+      "registry_name": "spinelle_rose_block"
     },
     {
-      "name": "PyropeOreBlockRecipe",
+      "name": "Spinelle_roseOreBlockRecipe",
       "type": "recipe",
       "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pyrope_ore_block_recipe"
+      "registry_name": "spinelle_rose_ore_block_recipe"
     },
     {
-      "name": "PyropeBlockOreRecipe",
+      "name": "Spinelle_roseBlockOreRecipe",
       "type": "recipe",
       "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pyrope_block_ore_recipe"
+      "registry_name": "spinelle_rose_block_ore_recipe"
     },
     {
-      "name": "PyropeOreSmelting",
+      "name": "Spinelle_roseOreSmelting",
       "type": "recipe",
       "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pyrope_ore_smelting"
+      "registry_name": "spinelle_rose_ore_smelting"
     },
     {
-      "name": "PyropePickaxe",
+      "name": "Spinelle_rosePickaxe",
       "type": "tool",
       "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pyrope_pickaxe"
+      "registry_name": "spinelle_rose_pickaxe"
     },
     {
-      "name": "PyropeAxe",
+      "name": "Spinelle_roseAxe",
       "type": "tool",
       "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pyrope_axe"
+      "registry_name": "spinelle_rose_axe"
     },
     {
-      "name": "PyropeSword",
+      "name": "Spinelle_roseSword",
       "type": "tool",
       "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pyrope_sword"
+      "registry_name": "spinelle_rose_sword"
     },
     {
-      "name": "PyropeShovel",
+      "name": "Spinelle_roseShovel",
       "type": "tool",
       "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pyrope_shovel"
+      "registry_name": "spinelle_rose_shovel"
     },
     {
-      "name": "PyropeHoe",
+      "name": "Spinelle_roseHoe",
       "type": "tool",
       "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pyrope_hoe"
+      "registry_name": "spinelle_rose_hoe"
     },
     {
-      "name": "PyropePickaxeRecipe",
+      "name": "Spinelle_rosePickaxeRecipe",
       "type": "recipe",
       "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pyrope_pickaxe_recipe"
+      "registry_name": "spinelle_rose_pickaxe_recipe"
     },
     {
-      "name": "PyropeAxeRecipe",
+      "name": "Spinelle_roseAxeRecipe",
       "type": "recipe",
       "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pyrope_axe_recipe"
+      "registry_name": "spinelle_rose_axe_recipe"
     },
     {
-      "name": "PyropeSwordRecipe",
+      "name": "Spinelle_roseSwordRecipe",
       "type": "recipe",
       "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pyrope_sword_recipe"
+      "registry_name": "spinelle_rose_sword_recipe"
     },
     {
-      "name": "PyropeShovelRecipe",
+      "name": "Spinelle_roseShovelRecipe",
       "type": "recipe",
       "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pyrope_shovel_recipe"
+      "registry_name": "spinelle_rose_shovel_recipe"
     },
     {
-      "name": "PyropeHoeRecipe",
+      "name": "Spinelle_roseHoeRecipe",
       "type": "recipe",
       "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pyrope_hoe_recipe"
+      "registry_name": "spinelle_rose_hoe_recipe"
     },
     {
-      "name": "PyropeArmor",
+      "name": "Spinelle_roseArmor",
       "type": "armor",
       "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pyrope_armor",
+      "registry_name": "spinelle_rose_armor",
       "metadata": {
         "eh": true,
         "el": true,
@@ -161,58 +161,58 @@
       }
     },
     {
-      "name": "PyropeArmorHelmetRecipe",
+      "name": "Spinelle_roseArmorHelmetRecipe",
       "type": "recipe",
       "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pyrope_armor_helmet_recipe"
+      "registry_name": "spinelle_rose_armor_helmet_recipe"
     },
     {
-      "name": "PyropeArmorBodyRecipe",
+      "name": "Spinelle_roseArmorBodyRecipe",
       "type": "recipe",
       "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pyrope_armor_body_recipe"
+      "registry_name": "spinelle_rose_armor_body_recipe"
     },
     {
-      "name": "PyropeArmorLeggingsRecipe",
+      "name": "Spinelle_roseArmorLeggingsRecipe",
       "type": "recipe",
       "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pyrope_armor_leggings_recipe"
+      "registry_name": "spinelle_rose_armor_leggings_recipe"
     },
     {
-      "name": "PyropeArmorBootsRecipe",
+      "name": "Spinelle_roseArmorBootsRecipe",
       "type": "recipe",
       "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pyrope_armor_boots_recipe"
+      "registry_name": "spinelle_rose_armor_boots_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.pyrope_sword.name": "Pyrope Sword",
-      "tile.pyrope_ore.name": "Pyrope Ore",
-      "item.pyrope_shovel.name": "Pyrope Shovel",
-      "item.pyrope.name": "Pyrope",
-      "item.pyrope_axe.name": "Pyrope Axe",
-      "item.pyrope_hoe.name": "Pyrope Hoe",
-      "item.pyrope_armorhelmet.name": "Pyrope Helmet",
-      "item.pyrope_armorlegs.name": "Pyrope Leggings",
-      "item.pyrope_armorboots.name": "Pyrope Boots",
-      "item.pyrope_pickaxe.name": "Pyrope Pickaxe",
-      "item.pyrope_armorbody.name": "Pyrope Chestplate",
-      "tile.pyrope_block.name": "Block of Pyrope"
+      "item.spinelle_rose_armorhelmet.name": "Spinelle_rose Helmet",
+      "tile.spinelle_rose_block.name": "Block of Spinelle_rose",
+      "item.spinelle_rose_pickaxe.name": "Spinelle_rose Pickaxe",
+      "item.spinelle_rose_hoe.name": "Spinelle_rose Hoe",
+      "item.spinelle_rose_axe.name": "Spinelle_rose Axe",
+      "item.spinelle_rose_armorlegs.name": "Spinelle_rose Leggings",
+      "item.spinelle_rose_sword.name": "Spinelle_rose Sword",
+      "item.spinelle_rose_armorbody.name": "Spinelle_rose Chestplate",
+      "item.spinelle_rose_armorboots.name": "Spinelle_rose Boots",
+      "item.spinelle_rose_shovel.name": "Spinelle_rose Shovel",
+      "item.spinelle_rose.name": "Spinelle_rose",
+      "tile.spinelle_rose_ore.name": "Spinelle_rose Ore"
     }
   },
   "workspaceSettings": {

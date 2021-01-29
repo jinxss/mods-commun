@@ -1,0 +1,42 @@
+{
+  "group": "commun",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "commun:spinelle_rose"
+    },
+    "1": {
+      "item": "commun:spinelle_rose"
+    },
+    "2": {
+      "item": "commun:spinelle_rose"
+    },
+    "3": {
+      "item": "commun:spinelle_rose"
+    },
+    "4": {
+      "item": "commun:spinelle_rose"
+    },
+    "5": {
+      "item": "commun:spinelle_rose"
+    },
+    "6": {
+      "item": "commun:spinelle_rose"
+    },
+    "7": {
+      "item": "commun:spinelle_rose"
+    },
+    "8": {
+      "item": "commun:spinelle_rose"
+    }
+  },
+  "result": {
+    "item": "commun:spinelle_rose_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "commun",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "commun:spinelle_rose"
+    },
+    "2": {
+      "item": "commun:spinelle_rose"
+    },
+    "3": {
+      "item": "commun:spinelle_rose"
+    },
+    "5": {
+      "item": "commun:spinelle_rose"
+    }
+  },
+  "result": {
+    "item": "commun:spinelle_rose_armorboots",
+    "count": 1
+  }
+}

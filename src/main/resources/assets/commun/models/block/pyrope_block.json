@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "commun:blocks/pyrope_ore_block",
-    "particle": "commun:blocks/pyrope_ore_block"
-  }
-}

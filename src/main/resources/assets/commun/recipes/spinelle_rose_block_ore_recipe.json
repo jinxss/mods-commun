@@ -1,0 +1,13 @@
+{
+  "group": "commun",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "commun:spinelle_rose_block"
+    }
+  ],
+  "result": {
+    "item": "commun:spinelle_rose",
+    "count": 9
+  }
+}
