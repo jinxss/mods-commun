@@ -1,0 +1,39 @@
+{
+  "group": "commun",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "commun:pyrope"
+    },
+    "2": {
+      "item": "commun:pyrope"
+    },
+    "3": {
+      "item": "commun:pyrope"
+    },
+    "4": {
+      "item": "commun:pyrope"
+    },
+    "5": {
+      "item": "commun:pyrope"
+    },
+    "6": {
+      "item": "commun:pyrope"
+    },
+    "7": {
+      "item": "commun:pyrope"
+    },
+    "8": {
+      "item": "commun:pyrope"
+    }
+  },
+  "result": {
+    "item": "commun:pyrope_armorbody",
+    "count": 1
+  }
+}

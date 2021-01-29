@@ -1,0 +1,13 @@
+{
+  "group": "commun",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "commun:pyrope_block"
+    }
+  ],
+  "result": {
+    "item": "commun:pyrope",
+    "count": 9
+  }
+}

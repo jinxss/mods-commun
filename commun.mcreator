@@ -195,24 +195,231 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "spinelle_rose_armor_boots_recipe"
+    },
+    {
+      "name": "Pyrope",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope"
+    },
+    {
+      "name": "PyropeOre",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_ore"
+    },
+    {
+      "name": "PyropeBlock",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_block"
+    },
+    {
+      "name": "PyropeOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_ore_block_recipe"
+    },
+    {
+      "name": "PyropeBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_block_ore_recipe"
+    },
+    {
+      "name": "PyropeOreSmelting",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_ore_smelting"
+    },
+    {
+      "name": "PyropePickaxe",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_pickaxe"
+    },
+    {
+      "name": "PyropeAxe",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_axe"
+    },
+    {
+      "name": "PyropeSword",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_sword"
+    },
+    {
+      "name": "PyropeShovel",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_shovel"
+    },
+    {
+      "name": "PyropeHoe",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_hoe"
+    },
+    {
+      "name": "PyropePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_pickaxe_recipe"
+    },
+    {
+      "name": "PyropeAxeRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_axe_recipe"
+    },
+    {
+      "name": "PyropeSwordRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_sword_recipe"
+    },
+    {
+      "name": "PyropeShovelRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_shovel_recipe"
+    },
+    {
+      "name": "PyropeHoeRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_hoe_recipe"
+    },
+    {
+      "name": "PyropeArmor",
+      "type": "armor",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "PyropeArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_armor_helmet_recipe"
+    },
+    {
+      "name": "PyropeArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_armor_body_recipe"
+    },
+    {
+      "name": "PyropeArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_armor_leggings_recipe"
+    },
+    {
+      "name": "PyropeArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pyrope_armor_boots_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.spinelle_rose_armorhelmet.name": "Spinelle_rose Helmet",
+      "item.pyrope_sword.name": "Pyrope Sword",
+      "tile.pyrope_ore.name": "Pyrope Ore",
       "tile.spinelle_rose_block.name": "Block of Spinelle_rose",
       "item.spinelle_rose_pickaxe.name": "Spinelle_rose Pickaxe",
-      "item.spinelle_rose_hoe.name": "Spinelle_rose Hoe",
+      "item.pyrope_axe.name": "Pyrope Axe",
+      "item.pyrope_hoe.name": "Pyrope Hoe",
+      "item.pyrope_armorboots.name": "Pyrope Boots",
+      "item.pyrope_pickaxe.name": "Pyrope Pickaxe",
+      "item.pyrope_armorbody.name": "Pyrope Chestplate",
+      "tile.spinelle_rose_ore.name": "Spinelle_rose Ore",
+      "item.spinelle_rose_armorhelmet.name": "Spinelle_rose Helmet",
+      "item.pyrope_shovel.name": "Pyrope Shovel",
+      "item.pyrope.name": "Pyrope",
       "item.spinelle_rose_axe.name": "Spinelle_rose Axe",
+      "item.spinelle_rose_hoe.name": "Spinelle_rose Hoe",
       "item.spinelle_rose_armorlegs.name": "Spinelle_rose Leggings",
+      "item.pyrope_armorhelmet.name": "Pyrope Helmet",
+      "item.pyrope_armorlegs.name": "Pyrope Leggings",
       "item.spinelle_rose_sword.name": "Spinelle_rose Sword",
       "item.spinelle_rose_armorbody.name": "Spinelle_rose Chestplate",
       "item.spinelle_rose_armorboots.name": "Spinelle_rose Boots",
       "item.spinelle_rose_shovel.name": "Spinelle_rose Shovel",
       "item.spinelle_rose.name": "Spinelle_rose",
-      "tile.spinelle_rose_ore.name": "Spinelle_rose Ore"
+      "tile.pyrope_block.name": "Block of Pyrope"
     }
   },
   "workspaceSettings": {
